@@ -1,0 +1,40 @@
+.custom-section-container {
+  display: flex;
+  margin-top: 20rem;
+  padding: 5rem;
+  .custom-section {
+    h4 {
+      font-family: "Otomanopee One", sans-serif;
+      font-style: normal;
+      font-weight: 900;
+      font-size: 30px;
+      line-height: 30px;
+      letter-spacing: 0.02em;
+      color: #161721;
+    }
+    span {
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 140%;
+      color: #73747a !important;
+    }
+  }
+  .custom-data {
+    border-radius: 50%;
+    /* width: 36px; */
+    /* height: 36px; */
+    padding: 8px;
+    background: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    border: 1px solid #161721;
+    
+    /* Black/Black - 8 */
+    
+    color: #44454D;
+  }
+}
